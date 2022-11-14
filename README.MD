@@ -1,1 +1,1 @@
-this is week7 zuri task
+https://ooyenike.github.io/Carousel-task/
